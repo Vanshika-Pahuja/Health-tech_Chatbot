@@ -17,4 +17,4 @@ Features of project are-
 3. Login and register are main options of GUI chatbot
 4. Asks for the symptoms of the patient and also give recommendation of the physician 
 
-TEAM MEMBERS : Vansh Bhargava , Varinderpal Singh , Vansh arora 
+TEAM MEMBERS : Vanshika , Vansh Bhargava , Varinderpal Singh , Vansh arora 
